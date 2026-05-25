@@ -16,45 +16,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Caching
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/GCP_(GKE)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TurboRepo-000000?style=for-the-badge&logo=turborepo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="./skills.svg" alt="Aditi's Tech Stack Dashboard" width="100%" />
 </p>
 
 ---
@@ -133,16 +98,7 @@
 >
 > * **NLP Pipeline:** Developed a Sentiment Classification Model using NLP techniques with a text preprocessing pipeline covering tokenization and TF-IDF vectorization for feature extraction.
 > * **Optimization & Viz:** Improved model accuracy through feature engineering and optimized training workflows; visualized performance metrics using Matplotlib and Seaborn.
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-2004&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2004&theme=tokyonight" height="180"/>
-</p>
-
----
 ---
 
 ## 🏆 GitHub Trophies
@@ -153,7 +109,17 @@
   </a>
 </p>
 
---- 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-2004&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2004&theme=tokyonight" height="180"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
