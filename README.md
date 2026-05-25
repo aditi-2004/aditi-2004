@@ -18,9 +18,14 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="./skills.svg" alt="Aditi's Tech Stack Dashboard" width="100%" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **✍️ Languages** | `Java` • `Python` • `SQL` • `TypeScript` • `JavaScript` |
+| **⚙️ Backend & Arch** | `Spring Boot` • `Microservices` • `Apache Kafka` • `Node.js` • `Express.js` • `REST APIs` • `RBAC Security` • `JWT` |
+| **🎨 Frontend & UI** | `React.js` • `TanStack Router/Query/Table` • `Tailwind CSS v4` • `shadcn/ui` • `Radix UI` • `Framer Motion` • `Zod` |
+| **🗄️ Databases & Caching** | `PostgreSQL` • `MongoDB` • `MySQL` • `Redis` |
+| **☁️ DevOps & Workspaces** | `GCP (GKE)` • `Docker` • `Kubernetes` • `TurboRepo` • `PNPM Workspaces` • `Husky` • `CI/CD` |
+| **🤖 AI & Intelligence** | `Gemini API` • `NLP` • `Scikit-learn` • `TF-IDF Vectorization` |
 
 ---
 
