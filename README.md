@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditi%20Goel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Distributed%20Systems%20Builder&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=180&section=header&text=Aditi%20Goel&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Distributed%20Systems%20Builder&descAlignY=52&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Engineer;Backend+Developer;Microservices+Builder;Full+Stack+Developer;Distributed+Systems+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=38EF7D&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Engineer;Backend+Developer;Microservices+Builder;Full+Stack+Developer;Distributed+Systems+Enthusiast"/>
 
 </div>
 
@@ -86,9 +86,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio694.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<a href="https://portfolio694.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-38EF7D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
   <a href="https://linkedin.com/in/aditi-goel-47913628b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -120,5 +120,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditi-2004&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=aditi-2004&color=38EF7D&style=for-the-badge"/>
 </div>
