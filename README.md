@@ -32,63 +32,37 @@
 ## 🚀 Featured Projects
 
 ### 🏦 Banking Microservices Platform
-> **Distributed Banking System**
->
-> 💻 **Tech Stack:** 
-> `Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `React` `JWT` `Docker` `Kubernetes (GKE)` `GCP`
->
-> * **Microservices Architecture:** Architected a distributed system with clearly defined Customer, Account, and Transaction Services.
-> * **Reliability & Performance:** Enforced idempotent transaction handling and optimistic locking; integrated **Apache Kafka** for asynchronous event-driven communication.
-> * **Ledger & Consistency:** Established a centralized immutable transaction ledger ensuring data consistency, auditability, and reliable financial tracking.
-> * **Security & Ops:** Secured REST APIs with JWT Authentication, built a React dashboard, and orchestrated deployment via Docker and Kubernetes (GKE).
+
+> **Tech Stack:** `Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `React` `JWT` `Docker` `Kubernetes` `GCP`
+> Built a scalable banking platform using Spring Boot microservices with Kafka-based event-driven communication, secure JWT authentication, and Kubernetes deployment.
 
 ---
 
 ### 🌊 Gulf Coast Enterprise Operations Platform
-> **Large-Scale Enterprise Monorepo Platform**
->
-> 💻 **Tech Stack:** 
-> `React` `TypeScript` `TurboRepo` `PNPM Workspaces` `TanStack Router/Query/Table` `Tailwind CSS v4` `shadcn/ui` `Radix UI` `Zod` `Vite`
->
-> * **Monorepo Design:** Designed a large-scale platform supporting workforce allocation, tool inventory, scheduling, and job management across 6 role-based applications.
-> * **Shared Infrastructure:** Built a shared UI package, shared validation schemas, centralized API layer, and reusable type-safe component library.
-> * **Data Management:** Implemented enterprise-grade paginated data tables with **TanStack Table** supporting search, filtering, column visibility, sorting, and row selection.
-> * **Forms & Validation:** Developed reusable scheduling workflows with calendar inputs, time range pickers, dialog systems, and Zod-based form validation.
-> * **Quality Control:** Enforced code quality standards through Husky, lint-staged, Commitlint, ESLint, Prettier, and shared TypeScript configurations.
+
+> **Tech Stack:** `React` `TypeScript` `TurboRepo` `TanStack` `Tailwind CSS` `shadcn/ui` `Zod` `Vite`
+> Developed an enterprise workforce management platform with a scalable monorepo architecture, reusable UI components, and shared packages.
 
 ---
 
-### 📈 DigiLedger – Responsive SaaS Landing Page
-> **Modern Responsive SaaS Landing Page**
->
-> 💻 **Tech Stack:** 
-> `React 19` `Vite` `Tailwind CSS` `Framer Motion` `React Router DOM` `Material UI Icons`
->
-> * **UX & Responsiveness:** Developed a modern responsive landing page with mobile-first design, animated feature showcases, and dark/light theme switching with localStorage persistence.
-> * **Animations:** Built reusable component architecture (Navbar, Footer, FeatureCard, GridCard) with animated mobile sidebar navigation and scroll-triggered stagger animations using **Framer Motion**.
-> * **Design Patterns:** Implemented glassmorphism UI patterns, gradient CTA sections, and responsive grid layouts optimized for desktop, tablet, and mobile.
+### 📈 DigiLedger – SaaS Landing Page
+
+> **Tech Stack:** `React` `Vite` `Tailwind CSS` `Framer Motion` `React Router`
+> Designed a modern, responsive SaaS landing page with smooth animations, reusable components, and dark/light theme support.
 
 ---
 
 ### 🤖 AI Interview Preparation Platform
-> **AI-Powered Interview Simulation System**
->
-> 💻 **Tech Stack:** 
-> `JavaScript` `Node.js` `Express.js` `React.js` `MongoDB` `Gemini API` `JWT`
->
-> * **AI Logic:** Built an AI-powered interview system leveraging **Gemini API** for dynamic, context-aware question generation with structured scoring and feedback evaluation logic.
-> * **Implementation:** Engineered backend with Node.js/Express.js using JWT Authentication; delivered a responsive React.js frontend for real-time interview interaction.
+
+> **Tech Stack:** `Node.js` `Express.js` `React` `MongoDB` `Gemini API` `JWT`
+> Built an AI-powered interview simulator that generates technical interview questions and provides personalized feedback.
 
 ---
 
 ### 📊 Sentiment Product Review Analysis
-> **NLP-Based Sentiment Classification Model**
->
-> 💻 **Tech Stack:** 
-> `Python` `Scikit-learn` `Pandas` `NumPy` `NLTK` `TF-IDF Vectorization` `Matplotlib` `Seaborn`
->
-> * **NLP Pipeline:** Developed a Sentiment Classification Model using NLP techniques with a text preprocessing pipeline covering tokenization and TF-IDF vectorization for feature extraction.
-> * **Optimization & Viz:** Improved model accuracy through feature engineering and optimized training workflows; visualized performance metrics using Matplotlib and Seaborn.
+
+> **Tech Stack:** `Python` `Scikit-learn` `NLTK` `TF-IDF` `Pandas` `Matplotlib`
+> Developed an NLP-based sentiment analysis model using TF-IDF vectorization and machine learning for product review classification.
 
 ---
 
