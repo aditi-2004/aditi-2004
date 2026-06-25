@@ -20,12 +20,12 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **✍️ Languages** | `Java` • `Python` • `SQL` • `TypeScript` • `JavaScript` |
-| **⚙️ Backend & Arch** | `Spring Boot` • `Microservices` • `Apache Kafka` • `Node.js` • `Express.js` • `REST APIs` • `RBAC Security` • `JWT` |
+| **✍️ Languages** | `Java` • `Python` • `SQL` • `JavaScript` |
+| **⚙️ Backend & Arch** | `Spring Boot` • `Microservices` • `Apache Kafka` • `Node.js` • `Express.js` • `REST APIs` • `JWT` |
 | **🎨 Frontend & UI** | `React.js` • `TanStack Router/Query/Table` • `Tailwind CSS v4` • `shadcn/ui` • `Radix UI` • `Framer Motion` • `Zod` |
-| **🗄️ Databases & Caching** | `PostgreSQL` • `MongoDB` • `MySQL` • `Redis` |
+| **🗄️ Databases & Caching** | `PostgreSQL` • `MongoDB` • `MySQL` • `Firebase` |
 | **☁️ DevOps & Workspaces** | `GCP (GKE)` • `Docker` • `Kubernetes` • `TurboRepo` • `PNPM Workspaces` • `Husky` • `CI/CD` |
-| **🤖 AI & Intelligence** | `Gemini API` • `NLP` • `Scikit-learn` • `TF-IDF Vectorization` |
+| **🤖 AI & Intelligence** | `LLM's` • `Machine Learning` • `NLP`|
 
 ---
 
@@ -129,10 +129,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=aditi-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=aditi-2004&theme=tokyonight&no-frame=true&no-bg=true&column=4"
     alt="GitHub Trophies"
   />
 </p>
