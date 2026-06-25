@@ -58,20 +58,6 @@
 
 ---
 
-### 🛡️ GhostProof Admin – Enterprise Admin Dashboard
-> **Scalable Enterprise Admin Dashboard**
->
-> 💻 **Tech Stack:** 
-> `React 19` `TypeScript` `TanStack Router/Query/Table` `Tailwind CSS v4` `Radix UI` `Axios` `React Hook Form` `Zod` `Recharts` `PostgreSQL` `Redis`
->
-> * **Authentication & RBAC:** Built an admin dashboard with RBAC authorization, JWT authentication, organization management, activity logging, and bulk upload workflows.
-> * **API Integration:** Developed a centralized API architecture using Axios interceptors with automatic Bearer token injection, encrypted payload communication, and global error handling.
-> * **Routing & Layouts:** Implemented modular domain-driven frontend structure with **TanStack Router** using nested protected layouts and file-based routing.
-> * **UI & Dashboards:** Designed a reusable headless UI component system using Radix UI primitives and Tailwind CSS; built data visualization dashboards with **Recharts**.
-> * **Data Operations:** Integrated drag-and-drop bulk file uploads (Excel/CSV), dynamic permission template system, and multi-tenant organizational access control.
-
----
-
 ### 📈 DigiLedger – Responsive SaaS Landing Page
 > **Modern Responsive SaaS Landing Page**
 >
@@ -106,21 +92,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aditi-2004&theme=tokyonight&margin-w=15&margin-h=15" alt="github-profile-trophy"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditi-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2004&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-2004&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-2004&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2004&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -128,15 +112,29 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditi-goel-47913628b">
+  <a href="https://portfolio694.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aditi-goel-47913628b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aditi2914.goel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/aditi-2004">
+  <a href="https://github.com/aditi-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aditi-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
